@@ -71,9 +71,10 @@
 .search-bar {
     display: grid;
     grid-auto-flow: column;
-    justify-self: center;
+    justify-self: start;
     align-items: center;
     gap: 10px;
+    padding-left: 35px;
 }
 
 .search-bar svg {
@@ -140,8 +141,9 @@
     display: grid;
     grid-auto-flow: column;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     padding-right: 60px;
+    gap:20px;
 
 }
 
