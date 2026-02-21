@@ -4,7 +4,7 @@ An admin dashboard layout built as part of [The Odin Project](https://www.theodi
 This project focuses on mastering **CSS Grid** to create a complex, responsive dashboard layout.
 
 ## 🚀 Live Preview
-👉 [View the Admin Dashboard](https://anishiitg.github.io/admin-dashboard/)
+👉 [View the Admin Dashboard](https://ahyejin.github.io/admin-dashboard/)
 
 ## ✨ Features
 - 🧱 Full-page dashboard layout using **CSS Grid**
