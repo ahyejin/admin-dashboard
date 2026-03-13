@@ -7,12 +7,12 @@ This project focuses on mastering **CSS Grid** to create a complex, responsive d
 👉 [View the Admin Dashboard](https://ahyejin.github.io/admin-dashboard/)
 
 ## ✨ Features
-- 🧱 Full-page dashboard layout using **CSS Grid**
-- 🧭 Sidebar navigation menu
-- 🗂️ Project cards section
-- 📢 Announcements panel
-- 👥 Trending users section
-- 🎨 Clean and consistent UI design
+- Full-page dashboard layout using **CSS Grid**
+- Sidebar navigation menu
+- Project cards section
+- Announcements panel
+- Trending users section
+- Clean and consistent UI design
 
 ## 🛠️ Technologies Used
 - HTML  
